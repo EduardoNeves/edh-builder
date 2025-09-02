@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sakai19
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# edh-builder
+>>>>>>> e8a68e07e1a84cb3cfd83204b66d6d8d59f73d3a
